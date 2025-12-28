@@ -1,28 +1,40 @@
-# BurgerPlus Website (Sample UI)
+# BurgerPlus Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/dileepabandara/burgerplus_web?color=red&label=repository%20size)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dileepabandara/burgerplus_web?color=red)
-![GitHub language count](https://img.shields.io/github/languages/count/dileepabandara/burgerplus_web)
-![GitHub top language](https://img.shields.io/github/languages/top/dileepabandara/burgerplus_web)
-![GitHub](https://img.shields.io/github/license/dileepabandara/burgerplus_web?color=yellow)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dileepabandara/burgerplus_web?color=brightgreen&label=commits)
+![GitHub repo size](https://img.shields.io/github/repo-size/dileepadev/burgerplus-web?color=red&label=repository%20size)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dileepadev/burgerplus-web?color=red)
+![GitHub language count](https://img.shields.io/github/languages/count/dileepadev/burgerplus-web)
+![GitHub top language](https://img.shields.io/github/languages/top/dileepadev/burgerplus-web)
+![GitHub](https://img.shields.io/github/license/dileepadev/burgerplus-web?color=yellow)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dileepadev/burgerplus-web?color=brightgreen&label=commits)
 
 ## ✨ About
 
 The **BurgerPlus Website (Sample UI)** is built with a sample user interface. This release includes a bubble animation navigation bar and the website footer. This alpha release does not include the complete requirements and interface. **This project has been developed as an open source for educational purposes.**
 
-<br>
+![Preview Image](https://dileepadev.github.io/images/burgerplus-web/preview.png)
 
-![Sample Screenshot](https://dileepabandara.github.io/public-images/projects/burgerplus-web-preview.png)
+## 🎞️ Demo Video
 
-## 🎬 Release Status
+Click the link or image below to view the demo video on YouTube.
 
-Version - Alpha Release 1.0  
-Initial release date - 08/11/2020
+🔗 <https://youtu.be/Bv22QCE3cFA>
+
+[![Watch the demo video](https://img.youtube.com/vi/Bv22QCE3cFA/0.jpg)](https://youtu.be/Bv22QCE3cFA)
+
+## 📦 Release Details
+
+Release Version - 1.0.0  
+Initial release date - November 8, 2020
+
+> [!NOTE]
+> This repository is a clean re-upload to my new GitHub account. No new features or functionality have been added. Minor compatibility fixes may have been applied to ensure the project runs correctly in the current environment. Please note that the original commit history from the previous account is not preserved. This update is primarily for migration purposes.
+>
+> **Initial release date:** November 8, 2020  
+> **Migration date:** December 28, 2025
 
 ## 💡 Deployment
 
-Deploy with GitHub Pages. Visit [BurgerPlus Website](https://dileepabandara.github.io/burgerplus_web/)
+Deploy with GitHub Pages. Visit: [BurgerPlus Website](https://dileepadev.github.io/burgerplus-web/)
 
 ## 💻 Built with
 
@@ -54,12 +66,8 @@ Before you get started, follow these requirements
 
 ## 📸 Icons and Images
 
-- Icons8 - https://icons8.com
-- Freepik - https://www.freepik.com
-
-## 🖼️ Project Gallery
-
-Project screenshots and pictures - [Project Gallery](https://dileepabandara.github.io/project-gallery)
+- Icons8 - <https://icons8.com>
+- Freepik - <https://www.freepik.com>
 
 ## ❤️ Thanks
 
@@ -68,18 +76,19 @@ Thanks to everyone who supported
 ## 👨‍💻 Developed By
 
 Dileepa Bandara  
-©dileepabandara.dev  
-<https://dileepabandara.dev>
+[@dileepadev](https://github.com/dileepadev)  
+<https://dileepa.dev>
+
+> [!NOTE]
+> This repository may contain references to my former GitHub username (`dileepabandara`) and domain (`dileepabandara.dev`), which I no longer use. These identifiers may now belong to other parties. All current development and maintenance are conducted under my new GitHub account [dileepadev](https://github.com/dileepadev) and domain [dileepa.dev](https://dileepa.dev).
 
 ## 💬 Contact
 
-If you want to contact me, leave a message via email or Twitter
+If you want to contact me, leave a message via email.
 
-- Email - <contact.dileepabandara@gmail.com>
-- Twitter - [_dileepabandara](https://twitter.com/_dileepabandara)
+- Email - <contact@dileepa.dev>
 
 ## 📜 License
 
-This project is licensed under the MIT License  
-MIT ©dileepabandara.dev  
-See the license file for more details [LICENSE.md](https://github.com/dileepabandara/burgerplus_web/blob/main/LICENSE)
+This project is licensed under the MIT License.  
+See the license file for more details [LICENSE.md](./LICENSE)

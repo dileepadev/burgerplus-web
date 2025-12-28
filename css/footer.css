@@ -29,3 +29,26 @@
   color:#fbff00;
   text-decoration:none;
 }
+
+/* Utility classes moved from inline styles in index.html */
+.hero-spacing {
+  margin-top: 60px;
+  margin-bottom: 100px;
+}
+
+.footer-logo {
+  width: 150px;
+}
+
+.accent-hr {
+  width: 120px;
+  height: 2px;
+  background-color: #F5E51B;
+  border: none;
+}
+
+.footer-sep {
+  background-color: #3C3F41;
+  height: 1px;
+  border: none;
+}
