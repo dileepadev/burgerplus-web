@@ -9,7 +9,7 @@
 
 ## ✨ About
 
-The **BurgerPlus Website (Sample UI)** is built with a sample user interface. This release includes a bubble animation navigation bar and the website footer. This alpha release does not include the complete requirements and interface. **This project has been developed as an open source for educational purposes.**
+The **BurgerPlus Website** is built with a sample user interface. This release includes a bubble animation navigation bar and the website footer. This alpha release does not include the complete requirements and interface. **This project has been developed as an open source for educational purposes.**
 
 ![Preview Image](https://dileepadev.github.io/images/burgerplus-web/preview.png)
 
@@ -41,8 +41,8 @@ Deploy with GitHub Pages. Visit: [BurgerPlus Website](https://dileepadev.github.
 - HTML
 - CSS
 - JavaScript
-- Bootstrap
-- jQuery
+- Bootstrap 4.6.1
+- jQuery 3.5.1
 - Visual Studio Code
 
 ## 📌 Prerequisites
